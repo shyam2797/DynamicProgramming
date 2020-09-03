@@ -26,4 +26,5 @@ int main()
             M[j]=Max;
     }
     cout<<M[S]<<endl;
+    cout<<endl;
 }
